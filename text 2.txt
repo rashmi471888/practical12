@@ -1,0 +1,36 @@
+Keyskills : Azure Data Engineer,Data Bricks,Azure Databricks,Azure Data Lake,Azure Data Factory,Python,Devops,Cicd Pipeline
+
+
+Apply Now Reply
+
+Dear Rashmi Rai,
+
+Hope you are doing well!
+
+  We are hiring for a role of Azure Data Engineer for a leading conglomerate.
+Appended Below are the Details for the role.
+
+Job Purpose:- An Azure Data Engineer is expected to design, develop, implement, and maintain
+data solutions on the Microsoft Azure platform. The Azure Data Engineer is
+responsible for creating and maintaining data pipelines, ensuring data accuracy,
+completeness, and timeliness, and ensuring compliance with data security and
+governance policies. The job requires the Azure Data Engineer to collaborate with
+cross-functional teams to understand business requirements, work with Data
+Architect and develop solutions that meet those requirements. The role will also work
+on setting up DevOps using CI/CD pipelines. DevOps knowledge is a plus.
+
+Job Description:-
+1. Design, develop and implement data solutions on the Azure platform
+2. Develop ETL pipelines using Azure Data Factory and Azure Databricks
+3. Develop and maintain data models and data processing pipelines using Azure SQL
+Database and (Any DB)
+4. Ensure the accuracy, completeness, and
+timeliness of data delivery
+5. Collaborate with cross-functional teams to deliver solutions that meet business
+requirements
+6. Implement data security, compliance, and governance policies
+7. Troubleshoot and resolve data relatedissues
+8. Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
+
+Job Requirement:-1) Good Exp in Azure Data Engineering.
+2)Strong experience in Azure Data Factory, Azure Databricks, Azure SQL Database, and Azure Cosmos DB, Python and Devops CI/CD Pipeline
